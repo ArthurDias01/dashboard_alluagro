@@ -26,3 +26,15 @@
 - [x] Page Management - Kanban board with tasks of the signed in user. (Backlog, Doing, Done), Adition/exclusion/modification of task data.
 - [x] Page Docs - follow documents attached to each sale approved.
 - [x] Page Monitoring - Monitor specific sale done concurrently with its completion (for premium sales)
+
+## Preview
+
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_1.jpeg" alt="dash_1"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_2.jpeg" alt="dash_2"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_3.jpeg" alt="dash_3"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_4.jpeg" alt="dash_4"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_5.jpeg" alt="dash_5"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_6.jpeg" alt="dash_6"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_7.jpg" alt="dash_7"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpg" alt="dash_8"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpg" alt="dash_9"/>
