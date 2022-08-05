@@ -1,4 +1,7 @@
 # Dashboard Alluagro
+Challenge:
+
+The company can see every machine available posted through another mobile app (built afterwards), follow metrics of the announcements, both for machines as well as for farms needing machine related jobs. It allowed to track progress of each negotiation as well as to track special kinds of reservations where the user could request direct monitoring of the broker company to improve job results. Integration with external API to provide users Farm product prices on Brazil's market.
 
 ## Used Tech
 - [x] TypeScript
@@ -29,12 +32,20 @@
 
 ## Preview
 
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_1.jpeg" alt="dash_1"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_2.jpeg" alt="dash_2"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_3.jpeg" alt="dash_3"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_4.jpeg" alt="dash_4"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_5.jpeg" alt="dash_5"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_6.jpeg" alt="dash_6"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_7.jpg" alt="dash_7"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpeg" alt="dash_8"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpeg" alt="dash_9"/>
+<div class="row">
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_1.jpeg" alt="dash_1"/>
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_2.jpeg" alt="dash_2"/>
+</div>
+<div class="row">
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_3.jpeg" alt="dash_3"/>
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_4.jpeg" alt="dash_4"/>
+</div>
+<div class="row">
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_5.jpeg" alt="dash_5"/>
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_6.jpeg" alt="dash_6"/>
+  </div>
+<div class="row">
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_7.jpg" alt="dash_7"/>
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpeg" alt="dash_8"/>
+  </div>
+  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpeg" alt="dash_9"/>
