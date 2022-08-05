@@ -36,5 +36,5 @@
 <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_5.jpeg" alt="dash_5"/>
 <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_6.jpeg" alt="dash_6"/>
 <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_7.jpg" alt="dash_7"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpg" alt="dash_8"/>
-<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpg" alt="dash_9"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpeg" alt="dash_8"/>
+<img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpeg" alt="dash_9"/>
