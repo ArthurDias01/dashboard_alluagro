@@ -46,6 +46,6 @@ The company can see every machine available posted through another mobile app (b
   </div>
 <div class="row">
   <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_7.jpg" alt="dash_7"/>
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpeg" alt="dash_8"/>
-  </div>
   <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpeg" alt="dash_9"/>
+</div>
+
